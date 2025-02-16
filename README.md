@@ -14,4 +14,3 @@
 </div>
 
 <br />
-https://visit-counter.vercel.app/counter.png?page=kylaandrade/S1-Resume
