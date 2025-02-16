@@ -13,6 +13,6 @@ document.addEventListener("DOMContentLoaded", function () {
         const randomColor = colors[Math.floor(Math.random() * colors.length)];
         leftSide.style.backgroundColor = randomColor;
         rightSide.style.backgroundColor = randomColor;
-        document.body.style.backgroundColor = randomColor; // Ensures full-page color change
+        document.body.style.backgroundColor = randomColor; 
     });
 });
